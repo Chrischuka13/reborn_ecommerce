@@ -21,7 +21,7 @@ const ItemDetails = () => {
     const [showForm, setShowForm] = useState(false);
     const [showSummary, setShowSummary] = useState(false)
     const [showDescription, setShowDescription] = useState(true);
-    const [showDelivery, setShowDelivery] = useState(true);
+    const [showDelivery, setShowDelivery] = useState(false);
     const [customer, setCustomer] = useState({
   name: "",
   phone: "",

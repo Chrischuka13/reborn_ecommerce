@@ -60,14 +60,14 @@ const SearchDrawer = ({ isOpen, onClose }) => {
               <p className="text-sm text-gray-500">No products found</p>
             ) : (
               displayProducts.map(product => (
-                <div key={product.id} className="flex gap-3 mb-4">
+                <Link to={`/collections/${product.id}`} key={product.id} className="flex gap-3 mb-4">
                   <img src={product.images[0]} alt={product.name} className="w-16 h-16 object-cover"/>
 
                   <div className="text-sm">
                     <p className="font-medium leading-tight">{product.name}</p>
                     <p className="text-gray-700">₦{product.price.toLocaleString()}</p>
                   </div>
-                </div>
+                </Link>
               ))
             )}
           </div>
