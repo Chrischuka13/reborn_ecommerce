@@ -1,0 +1,278 @@
+[
+    {
+    "id": "cincinnati-popping",
+    "images": [
+      "/images/download (29).jpg",
+      "/images/download (30).jpg",
+      "/images/Short Sleeve Shirts.jpg",
+      "/images/BARROW logo-print cotton shirt - Black.jpg",
+      "/images/The Kiyome - XS.jpg"
+    ],
+    "name": "Cincinnati Popping",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-casual",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "chevy-red",
+    "images": [
+      "/images/pexels-rdne-7187870.jpg",
+      "/images/pexels-rdne-7187821.jpg"
+    ],
+    "name": "Chevy Red",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-sport",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "chevy-pink",
+    "images": [
+      "/images/pexels-ali-drabo-10956272-13903589.jpg",
+      "/images/pexels-ali-drabo-10956272-13903591.jpg",
+      "/images/pexels-ali-drabo-10956272-13903588.jpg",
+      "/images/pexels-ali-drabo-10956272-13903587.jpg"
+    ],
+    "name": "Chevy Pink",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-casual",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "singo-sport",
+    "images": [
+      "/images/pexels-berlinerlights-27333850.jpg",
+      "/images/pexels-manuel-schlichter-753068368-28161792.jpg",
+      "/images/pexels-berlinerlights-27333849.jpg",
+      "/images/pexels-casnafu-27358423.jpg"
+    ],
+    "name": "Singo Sport",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-sport",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "cincinnati-popping2",
+    "images": [
+      "/images/pexels-mustapha-damilola-458083529-24561194.jpg",
+      "/images/pexels-mustapha-damilola-458083529-24561193.jpg",
+      "/images/pexels-mustapha-damilola-458083529-24561181.jpg"
+    ],
+    "name": "Cincinnati Popping II",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-casual",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "dhl-sport",
+    "images": [
+      "/images/pexels-israwmx-17591461.jpg",
+      "/images/pexels-vanessa-pozos-3368660-17608639.jpg",
+      "/images/pexels-israwmx-17591464.jpg"
+      
+    ],
+    "name": "DHL Sport",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-sport",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "dennyval-sport",
+    "images": [
+      "/images/pexels-lucretius-mooka-2554524-12002151.jpg",
+      "/images/pexels-lucretius-mooka-2554524-12002142.jpg" 
+    ],
+    "name": "Denny-Val Sport",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-sport",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "emirates-sport",
+    "images": [
+      "/images/pexels-ngabo-image-2148320894-31567271.jpg",
+      "/images/pexels-ngabo-image-2148320894-31567273.jpg"
+      
+    ],
+    "name": "EMIRATES Sport",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-sport",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "gs-sport",
+    "images": [
+      "/images/pexels-laura-rincon-318039951-15370895.jpg",
+      "/images/pexels-laura-rincon-318039951-15370894.jpg",
+      "/images/pexels-laura-rincon-318039951-15370868.jpg",
+      "/images/pexels-laura-rincon-318039951-15901354.jpg"
+      
+    ],
+    "name": "GS Sport",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-sport",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "break-pink",
+    "images": [
+      "/images/pexels-wavy-revolution-57767604-28379471.jpg",
+      "/images/pexels-wavy-revolution-57767604-28379469.jpg"
+    ],
+    "name": "Break Pink",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-casual",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "grey-strout",
+    "images": [
+      "/images/pexels-amar-30774048.jpg",
+      "/images/pexels-amar-31084912.jpg",
+      "/images/pexels-amar-31084920.jpg",
+      "/images/pexels-amar-31084821.jpg"
+    ],
+    "name": "Grey White",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-casual",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "denva-white",
+    "images": [
+      "/images/pexels-mertcoskunraw-33402313.jpg",
+      "/images/pexels-mertcoskunraw-33402321.jpg",
+      "/images/pexels-mertcoskunraw-33402249.jpg",
+      "/images/pexels-mertcoskunraw-33402250.jpg"
+    ],
+    "name": "Denva White",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-casual",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "blackyyy",
+    "images": [
+      "/images/pexels-weijia-ma-322731568-19989349.jpg",
+      "/images/pexels-weijia-ma-322731568-19989339.jpg"
+    ],
+    "name": "Black and White",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-casual",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "cincinnati-popping3",
+    "images": [
+      "/images/download (39).jpg",
+      "/images/download (40).jpg",
+      "/images/SS 2024 BANYASURE.jpg"
+    ],
+    "name": "Cincinnati Popping III",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-casual",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+  {
+    "id": "cincinnati-hoodie",
+    "images": [
+      "/images/pexels-infected-store-1913417375-28758137.jpg",
+      "/images/pexels-infected-store-1913417375-28758134.jpg",
+      "/images/pexels-infected-store-1913417375-28758129.jpg",
+      "/images/pexels-infected-store-1913417375-28758135.jpg"
+    ],
+    "name": "Cincinnati hoodie",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-casual",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  }
+]

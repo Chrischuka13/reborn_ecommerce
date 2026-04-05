@@ -1,0 +1,19 @@
+[
+  {
+    "id": "chevy-red",
+    "images": [
+      "/images/pexels-rdne-7187870.jpg",
+      "/images/pexels-rdne-7187821.jpg"
+    ],
+    "name": "Chevy Red",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-sport",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  }
+]

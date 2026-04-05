@@ -1,0 +1,77 @@
+[
+  {
+    "id": "Break-pink",
+    "images": [
+      "/images/pexels-wavy-revolution-57767604-28379471.jpg",
+      "/images/pexels-wavy-revolution-57767604-28379469.jpg"
+    ],
+    "name": "Califonia White",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-casual",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+
+  {
+    "id": "grey-strout",
+    "images": [
+      "/images/pexels-amar-30774048.jpg",
+      "/images/pexels-amar-31084912.jpg",
+      "/images/pexels-amar-31084920.jpg",
+      "/images/pexels-amar-31084821.jpg"
+    ],
+    "name": "Grey White",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-casual",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+
+  {
+    "id": "Break-pink",
+    "images": [
+      "/images/pexels-mertcoskunraw-33402313.jpg",
+      "/images/pexels-mertcoskunraw-33402321.jpg",
+      "/images/pexels-mertcoskunraw-33402249.jpg",
+      "/images/pexels-mertcoskunraw-33402250.jpg"
+    ],
+    "name": "Denva White",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-casual",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+
+  {
+    "id": "blackyyy",
+    "images": [
+      "/images/pexels-weijia-ma-322731568-19989349.jpg",
+      "/images/pexels-weijia-ma-322731568-19989339.jpg"
+    ],
+    "name": "Black and White",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "women-casual",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  }
+]

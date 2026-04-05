@@ -1,0 +1,81 @@
+[
+  {
+    
+    "id": "cincinnati-popping",
+    "images": [
+      "/images/download (29).jpg",
+      "/images/download (30).jpg",
+      "/images/Short Sleeve Shirts.jpg",
+      "/images/BARROW logo-print cotton shirt - Black.jpg",
+      "/images/The Kiyome - XS.jpg"
+    ],
+    "name": "Cincinnati Popping",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-casual",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+
+  {
+    "id": "cincinnati-popping2",
+    "images": [
+      "/images/pexels-mustapha-damilola-458083529-24561194.jpg",
+      "/images/pexels-mustapha-damilola-458083529-24561193.jpg",
+      "/images/pexels-mustapha-damilola-458083529-24561181.jpg"
+    ],
+    "name": "Cincinnati Popping II",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-casual",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+
+  {
+    "id": "cincinnati-popping3",
+    "images": [
+      "/images/download (39).jpg",
+      "/images/download (40).jpg",
+      "/images/SS 2024 BANYASURE.jpg"
+    ],
+    "name": "Cincinnati Popping III",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-casual",
+    "status": "Popular",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  },
+
+  {
+    "id": "cincinnati-hoodie",
+    "images": [
+      "/images/pexels-infected-store-1913417375-28758137.jpg",
+      "/images/pexels-infected-store-1913417375-28758134.jpg",
+      "/images/pexels-infected-store-1913417375-28758129.jpg",
+      "/images/pexels-infected-store-1913417375-28758135.jpg"
+    ],
+    "name": "Cincinnati hoodie",
+    "description": "Everyday essential redefined. Durable, cushioned, and built to flex with you.",
+    "price": 15000,
+    "size": [
+      "L", "XL", "XXL"
+    ],
+    "section": "men-casual",
+    "status": "New",
+    "material": "100% Cotton",
+    "fit": "Relaxed fit, mid-length cut"
+  }
+]
