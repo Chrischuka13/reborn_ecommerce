@@ -16,7 +16,7 @@ const Footer = () => {
     return;
 }
     try {
-        const response = await api.post("/subscribe", {phone})
+        const response = await api.post("/api/subscribe", {phone})
         const data = response.data
         console.log(data);
         
@@ -27,6 +27,7 @@ const Footer = () => {
         }, 2000);
         
     } catch (error) {
+        toast.error("Failed")
         console.log(error)
     }
 }

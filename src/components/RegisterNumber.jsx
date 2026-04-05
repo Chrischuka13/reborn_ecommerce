@@ -12,12 +12,13 @@ const RegisterNumber = ({isOpen, onClose}) => {
     }
 
     try {
-    const response = await api.post("/subscribe", {phone})
+    const response = await api.post("/api/subscribe", {phone})
     const data = response.data
     console.log(data);
 
     toast.success("Number sent successfully")    
     } catch (error) {
+        toast.error("Failed")
         console.log(error)
     }
 }
