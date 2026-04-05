@@ -109,10 +109,10 @@ const ItemDetails = () => {
                             <div className="border-b border-neutral-200 cursor-pointer">
                                 {/* HEADER */}
                                 <div onClick={() => setShowDescription(!showDescription)} className="w-full flex justify-between items-center py-6 group">
-                                    <span className="text-xs uppercase tracking-[0.2em] text-neutral-800 font-bold">product Description</span>
+                                    <span className=" uppercase tracking-[0.2em] text-neutral-800 font-bold">product Description</span>
 
                                     {/* Arrow */}
-                                    <span className={`text-lg transition-all duration-300 ease-in-out ${showDescription ? "rotate-180" : "rotate-0"} group-hover:opacity-70`}>+</span>
+                                    <span className={`text-3xl transition-all duration-300 ease-in-out ${showDescription ? "rotate-180" : "rotate-0"} group-hover:opacity-70`}>+</span>
                                 </div>
                                     {/* CONTENT */}
                                 <div className={`grid transition-all duration-500 ease-in-out ${showDescription ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"}`}>
@@ -124,7 +124,7 @@ const ItemDetails = () => {
                                             <div className="border-t border-neutral-200"></div>
                                             {/* Details */}
                                             <div className="space-y-2">
-                                                <h4 className="text-xs uppercase tracking-[0.15em] text-neutral-900 font-semibold">
+                                                <h4 className="uppercase tracking-[0.15em] text-neutral-900 font-semibold">
                                                 Details & Construction
                                                 </h4>
                                                 <p>Section: {apparel.section}</p>
@@ -136,7 +136,7 @@ const ItemDetails = () => {
 
                                             {/* Size */}
                                             <div className="space-y-2">
-                                                <h4 className="text-xs uppercase tracking-[0.15em] text-neutral-900 font-semibold">Size & Fit</h4>
+                                                <h4 className=" uppercase tracking-[0.15em] text-neutral-900 font-semibold">Size & Fit</h4>
                                                 <p>Available sizes: {apparel.size.join(", ")}</p>
                                                 <p>{apparel.fit}</p>
                                             </div>
@@ -149,10 +149,10 @@ const ItemDetails = () => {
                             <div className="border-b border-neutral-200 cursor-pointer">
                                 {/* HEADER */}
                                 <div onClick={() => setShowDelivery(!showDelivery)} className="w-full flex justify-between items-center py-6 group">
-                                    <span className="text-xs uppercase tracking-[0.2em] text-neutral-800 font-bold">Delivery and returns</span>
+                                    <span className="uppercase tracking-[0.2em] text-neutral-800 font-bold">Delivery and returns</span>
 
                                     {/* Arrow */}
-                                    <span className={`text-lg transition-all duration-300 ease-in-out ${showDelivery ? "rotate-180" : "rotate-0"} group-hover:opacity-70`}>+</span>
+                                    <span className={`text-3xl transition-all duration-300 ease-in-out ${showDelivery ? "rotate-180" : "rotate-0"} group-hover:opacity-70`}>+</span>
                                 </div>
                                     {/* CONTENT */}
                                 <div className={`grid transition-all duration-500 ease-in-out ${showDelivery ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"}`}>
@@ -160,14 +160,14 @@ const ItemDetails = () => {
                                         <div className="pb-6 space-y-2 text-sm leading-relaxed text-neutral-600">
                                             {/* Main description */}
                                             <img src="/images/delivery.png" alt="" className='w-8'/>
-                                            <h4 className="text-xs uppercase tracking-[0.15em] text-neutral-900 font-semibold">Free deliveries and returns worldwide</h4>
+                                            <h4 className="uppercase tracking-[0.15em] text-neutral-900 font-semibold">Free deliveries and returns worldwide</h4>
                                             <p className='mb-4'>In general package will arrive within 5 business days after order confirmed</p>
                                             {/* Divider */}
                                             <div className="border-t border-neutral-200"></div>
                                             {/* Details */}
                                             <div className="space-y-2">
                                                 <img src="/images/box.svg" alt="" />
-                                                <h4 className="text-xs uppercase tracking-[0.15em] text-neutral-900 font-semibold">
+                                                <h4 className="uppercase tracking-[0.15em] text-neutral-900 font-semibold">
                                                 Free deliveries and returns worldwide
                                                 </h4>
                                                 <p className='mb-4'>We deliver across the country for free</p>
@@ -178,7 +178,7 @@ const ItemDetails = () => {
                                             {/* Size */}
                                             <div className="space-y-2">
                                                 <img src="/images/return.svg" alt="" />
-                                                <h4 className="text-xs uppercase tracking-[0.15em] text-neutral-900 font-semibold">Guaranteed returns within first three days</h4>
+                                                <h4 className="uppercase tracking-[0.15em] text-neutral-900 font-semibold">Guaranteed returns within first three days</h4>
                                                 <p>Return your desired item within three days</p>
                                             </div>
                                         </div>
